@@ -1,10 +1,9 @@
 name:                shah
 version:             0.1.0.0
-github:              "githubuser/shah"
+github:              "githubuser/mohsen3"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2021 Author name here"
+author:              "mohsen3"
+copyright:           "2021 Mohsen Mollanoori"
 
 extra-source-files:
 - README.md

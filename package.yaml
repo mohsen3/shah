@@ -20,6 +20,14 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- aeson
+- karver
+- text
+- optparse-applicative
+- optparse-simple
+- bytestring
+- yaml
+- process
 
 library:
   source-dirs: src

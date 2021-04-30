@@ -3,7 +3,14 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages: []
+packages:
+- completed:
+    hackage: karver-0.1.2@sha256:ee99a21567b04d5ee4f55dfb20ebbf466e8183c56af22e10878947f60cc32c4d,1755
+    pantry-tree:
+      size: 391
+      sha256: 9f757fd4d31e07c8239380402f06adb5da66fb9635576102f7ab162c7b1eaa78
+  original:
+    hackage: karver-0.1.2
 snapshots:
 - completed:
     size: 567241
